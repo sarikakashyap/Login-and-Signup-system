@@ -159,7 +159,7 @@ def login():
     
     
 def signup():
-    #this page was designed without Frame
+    
     rootSignup=tk.Tk()
     rootSignup.configure(bg="black")
     rootSignup.state("zoom")
